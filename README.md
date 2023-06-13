@@ -47,7 +47,7 @@ or
 ```
 
 <h1 align="left">
-<img width="365" alt="Radhe-use" src="Static/use.png">
+<img width="400" alt="Radhe-use" src="Static/use.png">
 </h1>
 
 ### Example Uses
