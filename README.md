@@ -12,7 +12,7 @@ The following are the modules available in 𝗥𝗮𝗱𝗵𝗲:
 
 - Liveness Check: This module checks if a given subdomain is live. It does this by trying to access the subdomain using a variety of methods, including HTTP, HTTPS, and Tools like Puredns, Httpx.
 
-- Unauth Cache Purge: This module finds "Unauth cache Purge" issues. These are issues where a subdomain can be purged from a cache without authorization. This can be a security issue, as it can allow an attacker to delete sensitive data from a cache
+- Unauth Cache Purge: This module finds "Unauth cache Purge" issues. These are issues where a subdomain can be purged from a cache without authorization. This can be a security issue, as it can allow an attacker to delete sensitive data from a cache.
 
 Radhe is a powerful tool that can be used to find security vulnerabilities in a website. It is easy to use and can be run on any platform.
 
@@ -33,11 +33,17 @@ Radhe will then prompt you for a domain name. Enter the domain name and Radhe wi
 
 Radhe will output a report of its findings. This report will include a list of all the subdomains that were enumerated, whether or not they are live, and any "Unauth cache Purge" issues that were found.
 
-Radhe is a powerful tool that can be used to find security vulnerabilities in a website. It is easy to use and can be run on any platform. If you are responsible for the security of a website, I recommend that you install Radhe and use it to regularly scan your website for vulnerabilities
+Radhe is a powerful tool that can be used to find security vulnerabilities in a website. It is easy to use and can be run on any platform. If you are responsible for the security of a website, I recommend that you install Radhe and use it to regularly scan your website for vulnerabilities.
 
-# Notify Installation
+# Available On :
 
-```sh
+- Linux
+- Windows
+- Termux
+
+# Radhe Installation
+
+```
 go install -v github.com/projectdiscovery/notify/cmd/notify@latest
 ```
 
