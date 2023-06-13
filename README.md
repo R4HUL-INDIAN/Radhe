@@ -8,7 +8,7 @@ Radhe is a tool that automatically enumerates subdomains, checks if they are liv
 
 The following are the modules available in Radhe:
 
-Subdomain Enumeration: This module enumerates all the subdomains of a given domain. It uses a variety of techniques to enumerate subdomains, including DNS brute force, passive DNS, and WHOIS lookups.
+- Subdomain Enumeration: This module enumerates all the subdomains of a given domain. It uses a variety of techniques to enumerate subdomains, including DNS brute force, passive DNS, and WHOIS lookups.
 Liveness Check: This module checks if a given subdomain is live. It does this by trying to access the subdomain using a variety of methods, including HTTP, HTTPS, and FTP.
 Unauth Cache Purge: This module finds "Unauth cache Purge" issues. These are issues where a subdomain can be purged from a cache without authorization. This can be a security issue, as it can allow an attacker to delete sensitive data from a cache.
 Radhe is a powerful tool that can be used to find security vulnerabilities in a website. It is easy to use and can be run on any platform.
