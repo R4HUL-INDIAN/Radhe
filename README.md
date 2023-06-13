@@ -2,7 +2,7 @@
 
 # Introduction
 
-➊ This readme file provides an overview of our tool and its usage instructions. Our tool is designed to simplify and automate various tasks related to target domain analysis and subdomain management, making it more convenient for users to achieve their goals efficiently.
+① This readme file provides an overview of our tool and its usage instructions. Our tool is designed to simplify and automate various tasks related to target domain analysis and subdomain management, making it more convenient for users to achieve their goals efficiently.
 
 Features
 Our tool offers the following key features:
