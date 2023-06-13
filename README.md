@@ -36,9 +36,9 @@ chmod +x Radhe.sh
 ```
 
 
-# Running Notify
+# Running Radhe
 
-This will Run Radhe Tool.
+This will Run 𝗥𝗮𝗱𝗵𝗲 Tool.
 
 ```
 bash Radhe.sh 
