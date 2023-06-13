@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Static/radhe.png" alt="Radhe" width="200px">
+  <img src="Static/radhe.png" alt="Radhe" width="250px">
   <br>
 </h1>
 
