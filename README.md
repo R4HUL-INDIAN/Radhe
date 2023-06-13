@@ -47,16 +47,8 @@ or
 ```
 
 <h1 align="left">
-<img width="400" alt="Radhe-use" src="Static/use.png">
+<img width="500" alt="Radhe-use" src="Static/use.png">
 </h1>
-
-### Example Uses
-
-
-
-```sh
-subfinder -d intigriti.com | httpx | nuclei -tags exposure -o output.txt; notify -bulk -data output.txt
-```
 
 # Warning
 
