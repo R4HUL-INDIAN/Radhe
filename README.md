@@ -52,8 +52,6 @@ go install -v github.com/projectdiscovery/notify/cmd/notify@latest
 ```
 
 
-``` 
-
 # Running Notify
 
 Notify supports piping output of any tool or output file and send it to configured provider/s (e.g, discord, slack channel) as notification.
