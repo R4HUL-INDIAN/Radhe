@@ -31,11 +31,8 @@ Radhe is a powerful tool that can be used to find security vulnerabilities in a 
 
 ```
 git clone https://github.com/R4HUL-INDIAN/Radhe/
-
 cd Radhe
-
 chmod +x Radhe.sh 
-
 ```
 
 
@@ -45,9 +42,7 @@ This will Run Radhe Tool.
 
 ```
 bash Radhe.sh 
-
 or 
-
 ./Radhe.sh
 ```
 
