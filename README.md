@@ -106,9 +106,5 @@ Following command will enumerate subdomains using [SubFinder](https://github.com
 subfinder -d intigriti.com | httpx | nuclei -tags exposure -o output.txt; notify -bulk -data output.txt
 ```
 
-## Notes
-- As default notify sends notification line by line
-- Use `-bulk` to send notification as entire message/s (messages might be chunked)
 
-
-Notify is made with 🖤 by the [projectdiscovery](https://projectdiscovery.io) team.
+Radhe is made with 🖤 by R4HUL-INDIAN.
