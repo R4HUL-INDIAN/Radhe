@@ -23,7 +23,7 @@ Radhe is a powerful tool that can be used to find security vulnerabilities in a 
 notify -h
 ```
 
-This will display help for the tool. Here are all the switches it supports.
+This will Execute Radhe.sh .
 
 Radhe will then prompt you for a domain name. Enter the domain name and Radhe will start enumerating subdomains, checking if they are live, and finding "Unauth cache Purge" issues.
 
