@@ -42,12 +42,15 @@ Radhe is a powerful tool that can be used to find security vulnerabilities in a 
 - 𝙏𝙀𝙍𝙈𝙐𝙓
 
 - 𝙒𝙄𝙉𝘿𝙊𝙒𝙎
-- 
+
 # Radhe Installation
 
 ```
 git clone https://github.com/R4HUL-INDIAN/Radhe/
+
 cd Radhe
+
+chmod +x Radhe.sh 
 
 ```
 
