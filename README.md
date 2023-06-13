@@ -16,25 +16,6 @@ The following are the modules available in 𝗥𝗮𝗱𝗵𝗲:
 
 Radhe is a powerful tool that can be used to find security vulnerabilities in a website. It is easy to use and can be run on any platform.
 
-
-# Usage
-
-```
-bash Radhe.sh 
-
-or 
-
-./Radhe.sh
-```
-
-This will Execute Radhe.sh .
-
-Radhe will then prompt you for a domain name. Enter the domain name and Radhe will start enumerating subdomains, checking if they are live, and finding "Unauth cache Purge" issues.
-
-Radhe will output a report of its findings. This report will include a list of all the subdomains that were enumerated, whether or not they are live, and any "Unauth cache Purge" issues that were found.
-
-Radhe is a powerful tool that can be used to find security vulnerabilities in a website. It is easy to use and can be run on any platform. If you are responsible for the security of a website, I recommend that you install Radhe and use it to regularly scan your website for vulnerabilities.
-
 # Available On :
 
 - 𝙇𝙄𝙉𝙐𝙓
