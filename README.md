@@ -59,5 +59,9 @@ Following command will enumerate subdomains using [SubFinder](https://github.com
 subfinder -d intigriti.com | httpx | nuclei -tags exposure -o output.txt; notify -bulk -data output.txt
 ```
 
+# Warning
+
+𝙏𝙝𝙞𝙨 𝙩𝙤𝙤𝙡 𝙞𝙨 𝙤𝙣𝙡𝙮 𝙛𝙤𝙧 𝙚𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣𝙖𝙡 𝙥𝙪𝙧𝙥𝙤𝙨𝙚. 𝙄𝙛 𝙮𝙤𝙪 𝙪𝙨𝙚 𝙩𝙝𝙞𝙨 𝙩𝙤𝙤𝙡 𝙛𝙤𝙧 𝙤𝙩𝙝𝙚𝙧 𝙥𝙪𝙧𝙥𝙤𝙨𝙚𝙨 𝙚𝙭𝙘𝙚𝙥𝙩 𝙚𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣 𝙬𝙚 𝙬𝙞𝙡𝙡 𝙣𝙤𝙩 𝙗𝙚 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙗𝙡𝙚 𝙞𝙣 𝙨𝙪𝙘𝙝 𝙘𝙖𝙨𝙚𝙨.
+
 
 Radhe is made with 🖤 by R4HUL-INDIAN.
