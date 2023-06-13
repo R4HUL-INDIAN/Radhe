@@ -1,7 +1,4 @@
-
-<p align="center">
-  # Radhe
-</p>
+# Radhe
 
 Radhe is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues.
 
