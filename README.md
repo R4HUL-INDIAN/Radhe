@@ -20,7 +20,11 @@ Radhe is a powerful tool that can be used to find security vulnerabilities in a 
 # Usage
 
 ```
-notify -h
+bash Radhe.sh 
+
+or 
+
+./Radhe.sh
 ```
 
 This will Execute Radhe.sh .
