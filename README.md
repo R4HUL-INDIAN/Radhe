@@ -106,31 +106,9 @@ Following command will enumerate subdomains using [SubFinder](https://github.com
 subfinder -d intigriti.com | httpx | nuclei -tags exposure -o output.txt; notify -bulk -data output.txt
 ```
 
-
-### Provider Config
-
-
-The tool tries to use the default provider config (`$HOME/.config/notify/provider-config.yaml`), it can also be specified via CLI by using **provider-config** flag.
-
-To run the tool with custom provider config, just use the following command.
-
-```sh
-notify -provider-config providers.yaml
-```
-
-### Notify Config
-
-Notify flags can be configured at default config (`$HOME/.config/notify/config.yaml`) or custom config can be also provided using `config` flag.
-
 ## Notes
 - As default notify sends notification line by line
 - Use `-bulk` to send notification as entire message/s (messages might be chunked)
 
-## References
-
-- [Creating Slack webhook](https://slack.com/intl/en-it/help/articles/115005265063-Incoming-webhooks-for-Slack)
-- [Creating Discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
-- [Creating Telegram bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
-- [Creating Pushover Token](https://github.com/containrrr/shoutrrr/blob/main/docs/services/pushover.md)
 
 Notify is made with 🖤 by the [projectdiscovery](https://projectdiscovery.io) team.
