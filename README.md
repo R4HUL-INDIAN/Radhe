@@ -9,9 +9,7 @@
   <a href="https://discord.gg/projectdiscovery">Join Discord</a>
 </p>
 
-
-Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
-
+Radhe is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues.
 <h1 align="left">
   <img src="static/notify-httpx.png" alt="notify-httpx" width="700px">
   <br>
