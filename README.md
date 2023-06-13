@@ -4,7 +4,7 @@
 
 # Features
 
-𝙍𝙖𝙙𝙝𝙚 is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues. It has different modules that can be used for different tasks.
+𝗥𝗔𝗗𝗛𝗘 is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues. It has different modules that can be used for different tasks.
 
 The following are the modules available in 𝙍𝙖𝙙𝙝𝙚:
 
