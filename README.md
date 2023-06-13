@@ -1,15 +1,5 @@
 
 <p align="center">
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-_red.svg"></a>
-<a href="https://github.com/projectdiscovery/notify/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-<a href="https://goreportcard.com/badge/github.com/projectdiscovery/notify"><img src="https://goreportcard.com/badge/github.com/projectdiscovery/notify"></a>
-<a href="https://github.com/projectdiscovery/notify/releases"><img src="https://img.shields.io/github/release/projectdiscovery/notify"></a>
-<a href="https://hub.docker.com/r/projectdiscovery/notify"><img src="https://img.shields.io/docker/pulls/projectdiscovery/notify.svg"></a>
-<a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
-<a href="https://discord.gg/projectdiscovery"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
-</p>
-
-<p align="center">
   <a href="#features">Features</a> •
   <a href="#notify-installation">Installation</a> •
   <a href="#provider-config">Providers</a> •
