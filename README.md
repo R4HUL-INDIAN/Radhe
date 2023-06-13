@@ -41,12 +41,14 @@ chmod +x Radhe.sh
 
 # Running Notify
 
-Notify supports piping output of any tool or output file and send it to configured provider/s (e.g, discord, slack channel) as notification.
+This will Run Radhe Tool.
 
-### Send notification using piped(stdin) output
+```
+bash Radhe.sh 
 
-```sh
-subfinder -d hackerone.com | notify
+or 
+
+./Radhe.sh
 ```
 
 <h1 align="left">
