@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="Static/radhe.png" alt="Radhe" width="200px">
+  <br>
+</h1>
+
 # Radhe
 
 𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues.
