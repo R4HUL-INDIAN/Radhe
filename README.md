@@ -19,7 +19,7 @@ Radhe is a powerful tool that can be used to find security vulnerabilities in a 
 
 # Usage
 
-```sh
+```
 notify -h
 ```
 
