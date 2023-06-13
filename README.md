@@ -1,19 +1,9 @@
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#notify-installation">Installation</a> •
-  <a href="#provider-config">Providers</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#running-notify">Running Notify</a> •
-  <a href="#notes">Notes</a> •
-  <a href="https://discord.gg/projectdiscovery">Join Discord</a>
+  # Radhe
 </p>
 
 Radhe is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues.
-<h1 align="left">
-  <img src="static/notify-httpx.png" alt="notify-httpx" width="700px">
-  <br>
-</h1>
 
 # Features
 
