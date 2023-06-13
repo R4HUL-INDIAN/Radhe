@@ -50,34 +50,6 @@ or
 <img width="365" alt="notify-subfinder" src="https://user-images.githubusercontent.com/8293321/130240854-e3031bc6-ecc8-47f8-9654-4c58e09cc622.png">
 </h1>
 
-### Send notification using output file
-
-
-```sh
-subfinder -d hackerone.com -o h1.txt; notify -data h1.txt
-```
-
-### Send notification using output file in bulk mode
-
-
-```sh
-subfinder -d hackerone.com -o h1.txt; notify -data h1.txt -bulk
-```
-
-### Send notification using output file to specific provider's
-
-
-```sh
-subfinder -d hackerone.com -o h1.txt; notify -data h1.txt -bulk -provider discord,slack
-```
-
-### Send notification using output file to specific ID's
-
-
-```sh
-subfinder -d hackerone.com -o h1.txt; notify -data h1.txt -bulk -id recon,vulns,scan
-```
-
 ### Example Uses
 
 Following command will enumerate subdomains using [SubFinder](https://github.com/projectdiscovery/subfinder) and probe alive URLs using [httpx](https://github.com/projectdiscovery/httpx), runs [Nuclei](https://github.com/projectdiscovery/nuclei) templates and send the nuclei results as a notifications to configured provider/s.
