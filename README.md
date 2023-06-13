@@ -46,7 +46,9 @@ Radhe is a powerful tool that can be used to find security vulnerabilities in a 
 # Radhe Installation
 
 ```
-go install -v github.com/projectdiscovery/notify/cmd/notify@latest
+git clone https://github.com/R4HUL-INDIAN/Radhe/
+cd Radhe
+
 ```
 
 
