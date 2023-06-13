@@ -37,12 +37,12 @@ Radhe is a powerful tool that can be used to find security vulnerabilities in a 
 
 # Available On :
 
-- 𝙇𝙞𝙣𝙪𝙭
+- 𝙇𝙄𝙉𝙐𝙓
 
-- 𝙏𝙚𝙧𝙢𝙪𝙭
+- 𝙏𝙀𝙍𝙈𝙐𝙓
 
-- 𝙒𝙞𝙣𝙙𝙤𝙬𝙨
-
+- 𝙒𝙄𝙉𝘿𝙊𝙒𝙎
+- 
 # Radhe Installation
 
 ```
