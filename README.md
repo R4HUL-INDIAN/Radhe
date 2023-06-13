@@ -47,7 +47,7 @@ or
 ```
 
 <h1 align="left">
-<img width="365" alt="notify-subfinder" src="https://user-images.githubusercontent.com/8293321/130240854-e3031bc6-ecc8-47f8-9654-4c58e09cc622.png">
+<img width="365" alt="Radhe-use" src="Static/use.png">
 </h1>
 
 ### Example Uses
