@@ -18,8 +18,7 @@ echo "
 "
 
 
-modules=("Subdomain Enumeration" "Live Subdomains" "Find Cache Purge" "Update Radhe" )
-
+modules=("Subdomain Enumeration" "Live Subdomains" "Find Cache Purge" "Find SSRF" "Update Radhe Tool" )
 
 execute_module() {
     local module_name="$1"
