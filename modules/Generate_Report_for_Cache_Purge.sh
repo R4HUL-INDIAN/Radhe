@@ -1,13 +1,17 @@
 #!/bin/bash
 
+clear 
 
-echo  # Add an empty line
+start_time=$(date +%s)  # Record the start time
 
-echo -e "\e[0;36mRADHE KRISHNA ❤ \e[0m" 
+# M𝙖𝙙𝙚 𝙬𝙞𝙩𝙝 🖤 𝙗𝙮 𝙍4𝙃𝙐𝙇-𝙄𝙉𝘿𝙄𝘼𝙉
 
-echo  # Add an empty line
+echo  # For one-line gap
 
-# Function to generate the vulnerability report
+echo -e "\e[1;33mRADHE RADHE ❤ \e[0m" 
+
+echo  # For one-line gap
+
 generate_report() {
     local name="$1"
     local target="$2"
@@ -41,28 +45,46 @@ generate_report() {
 
     echo "Vulnerability report saved as Report.txt"
     echo # For one line gap
-    echo -e "\e[0;36mModule Finished ❤ \e[0m" 
+
 }
 
-# Main script execution
+
 main() {
     echo "Please provide the following information:"
     echo
 
-    # Prompt user for name
+
     read -p "Your Name: " name
 
-    # Prompt user for target website
+
     read -p "Target Website: " target
 
-    # Prompt user for response of curl request
+
     read -p "Response of curl request: " response
 
     echo  # For one-line gap
 
-    # Generate the vulnerability report and save it in Report.txt
+
     generate_report "$name" "$target" "$response"
 }
 
 # Execute the main function
 main
+
+echo  # For one-line gap
+
+# For Script Execution Timing
+
+end_time=$(date +%s)  # Record the end time
+execution_time=$((end_time - start_time))  
+
+if ((execution_time < 60)); then
+  echo "The Report Module finished in $execution_time seconds"
+else
+  minutes=$((execution_time / 60))  
+  seconds=$((execution_time % 60))  
+  echo "The Report Module finished in $minutes minutes $seconds seconds"
+fi
+
+# M𝙖𝙙𝙚 𝙬𝙞𝙩𝙝 🖤 𝙗𝙮 𝙍4𝙃𝙐𝙇-𝙄𝙉𝘿𝙄𝘼𝙉
+
