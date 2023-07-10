@@ -1,8 +1,14 @@
 #!/bin/bash
 
-echo  # Add an empty line
+clear 
 
-echo -e "\e[0;36mRADHE KRISHNA ❤ \e[0m" 
+start_time=$(date +%s)  # Record the start time
+
+# M𝙖𝙙𝙚 𝙬𝙞𝙩𝙝 🖤 𝙗𝙮 𝙍4𝙃𝙐𝙇-𝙄𝙉𝘿𝙄𝘼𝙉
+
+echo  # For one-line gap
+
+echo -e "\e[1;33mRADHE RADHE ❤ \e[0m" 
 
 # File to read from
 puredns_file="puredns.txt"
@@ -55,6 +61,9 @@ bold=$(tput bold)
 cyan=$(tput setaf 6)
 reset=$(tput sgr0)
 
+echo  # For one-line gap
+echo -e "\e[1;33m[+] Scanning for Web Cache Purge Vulnerabilities \e[0m"
+
 # Read each line of the file
 while read -r line; do
   # Replace the words after "curl -X PURGE"
@@ -81,12 +90,23 @@ while read -r line; do
   echo  # Add an empty line
 done < "$file"
 
-# Add an empty line at the end of the script
 echo
-
-# For removing temp files
 
 rm add_puredns.txt Urls.txt
 
-# Print a message to indicate that the script has finished
-echo "Script execution completed :)"
+echo  # For one-line gap
+
+# For Script Execution Timing
+
+end_time=$(date +%s)  # Record the end time
+execution_time=$((end_time - start_time))  
+
+if ((execution_time < 60)); then
+  echo "The Scan Cache Purge Module finished in $execution_time seconds"
+else
+  minutes=$((execution_time / 60))  
+  seconds=$((execution_time % 60))  
+  echo "The Scan Cache Purge Module finished in $seconds seconds"
+fi
+
+# M𝙖𝙙𝙚 𝙬𝙞𝙩𝙝 🖤 𝙗𝙮 𝙍4𝙃𝙐𝙇-𝙄𝙉𝘿𝙄𝘼𝙉
