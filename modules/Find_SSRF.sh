@@ -122,7 +122,7 @@ fi
 
 # if anyone wants to keep any output file for use, they can just remove the filename from this following line below :)
 
-rm gau.txt way.txt add_puredns.txt finalsubs.txt output.txt ssrfnew.txt
+rm gau.txt way.txt add_puredns.txt finalsubs.txt output.txt ssrfnew.txt allurls.txt
 
 echo  # For one-line gap
 
