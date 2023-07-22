@@ -3,11 +3,11 @@
   <br>
 </h1>
 
-𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues.
+𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" and "Server-Side Request Forgery (SSRF)" vulnerabilities or issues
 
 # Features 
 
-𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" issues. It has different modules that can be used for different tasks.
+𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds "Unauth cache Purge" and "Server-Side Request Forgery (SSRF)" vulnerabilities or issues. It has different modules that can be used for different tasks.
 
 The following are the modules available in 𝗥𝗮𝗱𝗵𝗲:
 
