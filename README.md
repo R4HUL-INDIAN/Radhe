@@ -19,6 +19,8 @@ The following are the modules available in 𝗥𝗮𝗱𝗵𝗲:
 
 - SSRF Vulnerability Detection: The SSRF Vulnerability Detection module identifies potential Server-Side Request Forgery (SSRF) vulnerabilities. These vulnerabilities occur when an application allows unauthorized external requests to be made from the server-side, potentially exposing sensitive information or enabling attackers to interact with internal systems. Detecting and addressing SSRF vulnerabilities is crucial for maintaining the security and integrity of the application, preventing potential data leaks, and mitigating unauthorized access to sensitive resources.
 
+- Radhe Tool Updater: This module automatically installs the latest version of Radhe Tool, ensuring users have access to its newest features and security updates.
+
 Radhe is a powerful tool that can be used to find security vulnerabilities in a website. It is easy to use and can be run on any platform.
 
 # Available On :
