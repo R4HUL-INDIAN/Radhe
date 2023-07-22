@@ -89,7 +89,7 @@ eval "$updated_command"
 # M𝙖𝙙𝙚 𝙬𝙞𝙩𝙝 🖤 𝙗𝙮 𝙍4𝙃𝙐𝙇-𝙄𝙉𝘿𝙄𝘼𝙉
 echo  # For one-line gap
 
-python ssrf.py
+python3 ssrf.py
 
 cat ssrfnew.txt | httpx -silent -fr > output.txt
 
