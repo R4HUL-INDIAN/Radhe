@@ -42,8 +42,6 @@ chmod +x Radhe.sh ssrf.py
 
 This will Run 𝗥𝗮𝗱𝗵𝗲 Tool.
 
-NOTE: Use modules one by one. For example, the first module is Subdomain Enumeration, which creates a text file called "subdomains.txt". This file is used when running the second module, Live Subdomains. Therefore, all required files must be present before running any module. To use the modules correctly, run the first module, then the second module, and so on. (The fifth module, Update Radhe, does not require running any other modules before it.)
-
 ```
 bash Radhe.sh 
 or 
@@ -53,6 +51,8 @@ or
 <h1 align="left">
 <img width="500" alt="Radhe-use" src="Static/usage.png">
 </h1>
+
+- NOTE: Use modules one by one. For example, the first module is Subdomain Enumeration, which creates a text file called "subdomains.txt". This file is used when running the second module, Live Subdomains. Therefore, all required files must be present before running any module. To use the modules correctly, run the first module, then the second module, and so on. (The fifth module, Update Radhe, does not require running any other modules before it.)
 
 # Warning
 
